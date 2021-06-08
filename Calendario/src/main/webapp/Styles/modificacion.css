@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/25/f6/f4/25f6f4558a40ab0e83e12826bda31d66.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#Xd{
+    height: 200px;
+    padding: 50px;
+    
+}
+#display-inline{
+    display: inline;
+}
+#position-relative{
+    position: relative;
+    width: fit-content;
+}
+#principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 50px);
+}
+#Cuadroleft{
+    margin-right: 15px;
+}
+.Cuadro{
+    height: 500px;
+}
+
+#btnCrear{
+     float: right;
+     margin-top: 15px;
+     margin-left: 5px;
+}
+
+#btnIngreso{
+    float: right;
+    margin-top: 15px;
+    margin-left: 5px;
+}
